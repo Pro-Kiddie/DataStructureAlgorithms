@@ -1,5 +1,5 @@
 # Kattis Solutions in C++
-> C++ Solutions for Kattis Problems during NUS CS2040C Module.
+> C++ Solutions for Kattis Problems when learning Data Structure and Algorithms.
 
 ## Data Structures Learnt
 - Linked List
